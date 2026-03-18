@@ -1,7 +1,7 @@
 # ⚙ Tool Rental System
 
 **Universidad Nacional Abierta y a Distancia — UNAD**  
-Curso: Programación | Código: 213023  
+Curso: Programación - 213023_344 
 Fase 2: Diseño y Programación Orientada a Objetos — Ejercicio 5  
 Python 3 + Tkinter | Marzo 2026
 
